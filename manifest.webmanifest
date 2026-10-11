@@ -1,6 +1,6 @@
 {
-  "name": "ARKO Évacuation",
-  "short_name": "ARKO Évac",
+  "name": "ARKO Exercice d’évacuation",
+  "short_name": "ARKO Exercice",
   "lang": "fr",
   "start_url": "./index.html",
   "scope": "./",
