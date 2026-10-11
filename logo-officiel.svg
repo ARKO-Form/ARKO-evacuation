@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2100" height="600" viewBox="0 0 2100 600">
+
+  <defs>
+    <linearGradient id="navyGrad" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#002F51"/>
+      <stop offset="1" stop-color="#06385B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#247429"/>
+      <stop offset="1" stop-color="#2F8533"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#E75600"/>
+      <stop offset="1" stop-color="#FF7900"/>
+    </linearGradient>
+  </defs>
+
+  <g id="symbol">
+    <path d="M45 475 L270 45 L322 142 L132 475 Q118 500 90 500 L25 500 Z"
+          fill="url(#navyGrad)"/>
+    <path d="M283 180 L470 500 L397 500 Q374 500 362 479 L253 292 Z"
+          fill="url(#greenGrad)"/>
+    <path d="M191 398 L286 398 L350 500 L274 500 Q252 500 240 479 Z"
+          fill="url(#orangeGrad)"/>
+  </g>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="565" y="300" font-size="214" font-weight="700" letter-spacing="-9">
+      <tspan fill="#06385B">ARKO-</tspan><tspan fill="#2F8533">Form</tspan>
+    </text>
+    <text x="570" y="390" font-size="55" font-weight="700" letter-spacing="11" fill="#06385B">
+      PRÉVENIR <tspan fill="#2F8533">•</tspan> FORMER <tspan fill="#2F8533">•</tspan> CONSEILLER
+    </text>
+    <text x="570" y="505" font-size="43" font-weight="700" fill="#06385B">
+      FORMATION <tspan fill="#F06B00">INCENDIE</tspan> - <tspan fill="#2F8533">SECOURISME</tspan> - PRÉVENTION <tspan fill="#626262">/ CONSEIL</tspan>
+    </text>
+  </g>
+</svg>

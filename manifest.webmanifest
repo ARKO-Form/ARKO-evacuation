@@ -1,0 +1,23 @@
+{
+  "name": "ARKO Évacuation",
+  "short_name": "ARKO Évac",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#06385B",
+  "icons": [
+    {
+      "src": "icon-apple.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><rect width="512" height="512" rx="110" fill="#ffffff"/><defs>
+    <linearGradient id="navyGrad" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#002F51"/>
+      <stop offset="1" stop-color="#06385B"/>
+    </linearGradient>
+    <linearGradient id="greenGrad" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#247429"/>
+      <stop offset="1" stop-color="#2F8533"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#E75600"/>
+      <stop offset="1" stop-color="#FF7900"/>
+    </linearGradient>
+  </defs><g id="symbol" transform="translate(55,55) scale(.85)">
+    <path d="M45 475 L270 45 L322 142 L132 475 Q118 500 90 500 L25 500 Z"
+          fill="url(#navyGrad)"/>
+    <path d="M283 180 L470 500 L397 500 Q374 500 362 479 L253 292 Z"
+          fill="url(#greenGrad)"/>
+    <path d="M191 398 L286 398 L350 500 L274 500 Q252 500 240 479 Z"
+          fill="url(#orangeGrad)"/>
+  </g></svg>
